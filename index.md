@@ -2,6 +2,8 @@
 
 Hey. I do journalism, data, writing, editing, teaching, research, and many other things. This is the website I coded to showcase my materials and abilities.
 
+**This website is still under construction, and most parts do not work at this time.**
+
 # Curriculum Vitae
 
 If you want to read my full(er) history, go to my [CV](./curriculum-vitae.md).
