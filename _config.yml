@@ -1,5 +1,6 @@
-title: Tactile theme
-description: Tactile is a theme for GitHub Pages.
-show_downloads: true
+title: "Brett Vollrath"
+author: "Brett Vollrath"
+description: "Writer, editor, researcher and teacher."
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-tactile
