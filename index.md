@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Introduction
 
 Hey. I do journalism, data, writing, editing, teaching, research, and many other things. This is the website I coded to showcase my materials and abilities.
