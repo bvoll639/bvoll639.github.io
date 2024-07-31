@@ -6,7 +6,7 @@ Hey. I do journalism, data, writing, editing, teaching, research, and many other
 
 # Curriculum Vitae
 
-If you want to read my full(er) history, go to my [CV](./curriculum-vitae.md).
+If you want to read my full(er) history, [go to my CV](./curriculum-vitae.md).
 
 # Portfolios & Collections
 
