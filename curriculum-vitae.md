@@ -1,4 +1,4 @@
-# Data Journalist | Writer | Researcher | Editor | Teacher
+# Curriculum Vitae
 
 
 #### Technical Skills: Python, Markdown, HTML, CSS, Java, GIS, Adobe Creative Cloud, Microsoft Office
