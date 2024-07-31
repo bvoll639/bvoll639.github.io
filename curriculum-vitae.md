@@ -1,7 +1,7 @@
 # Curriculum Vitae
 
 ## Education			        		
-B.S., Journalism | California Polytechnic State University, San Luis Obispo (_June 2022_)
+B.S., Journalism from California Polytechnic State University, San Luis Obispo (_June 2022_)
 
 ## Work Experience
 **Documenter at inewsource (_June 2024 - Present_)**
