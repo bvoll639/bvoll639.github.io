@@ -18,7 +18,7 @@ My [research](./research.html) work is here.
 
 My [teaching](./teaching.html) work is here.
 
-If you want to see my other [projects](./project.html), click on the link.
+If you want to see my other [projects](./projects.html), click on the link.
 
 # Contact
 
