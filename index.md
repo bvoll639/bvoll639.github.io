@@ -10,18 +10,18 @@ If you want to read my full(er) history, go to my [CV](./curriculum-vitae.md).
 
 # Portfolios & Collections
 
-My [journalism](./journalism.md) work is here.
+[My journalism work is here.](./journalism.md)
 
-My [writing](./writing.md) work is here.
+[My writing work is here.](./writing.md)
 
-My [editing](./editing.md) work is here.
+[My editing work is here.](./editing.md)
 
-My [research](./research.md) work is here.
+[My research work is here.](./research.md)
 
-My [teaching](./teaching.md) work is here.
+[My teaching work is here.](./teaching.md)
 
-If you want to see my other [projects](./projects.md), click on the link.
+[My other projects can be found here.](./projects.md)
 
 # Contact
 
-If you want to [contact](./contact.md) me, follow the link.
+[You may contact me by following the link.](./contact.md)
