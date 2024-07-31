@@ -22,4 +22,4 @@ If you want to see my other [projects](./project.html), click on the link.
 
 # Contact
 
-If you want to [contact](./contact.html) me, follow the link
+If you want to [contact](./contact.html) me, follow the link.
